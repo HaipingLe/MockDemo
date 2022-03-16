@@ -1,0 +1,3 @@
+/home/hubert/Desktop/MockDemo/build/CMakeFiles/rebuild_cache.dir
+/home/hubert/Desktop/MockDemo/build/CMakeFiles/edit_cache.dir
+/home/hubert/Desktop/MockDemo/build/CMakeFiles/MockTestDemo.dir

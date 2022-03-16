@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11  -rdynamic CMakeFiles/MockTestDemo.dir/src/main.cpp.o  -o MockTestDemo -lgmock -lgtest -lpthread 

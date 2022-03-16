@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hubert/Desktop/MockDemo/src/main.cpp
+TurtleMock.hpp
+/home/hubert/Desktop/MockDemo/src/TurtleMock.hpp
+gmock/gmock.h
+/home/hubert/Desktop/MockDemo/src/gmock/gmock.h
+gtest/gtest.h
+/home/hubert/Desktop/MockDemo/src/gtest/gtest.h
+
